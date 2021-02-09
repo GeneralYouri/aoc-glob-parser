@@ -1,0 +1,31 @@
+{
+  "name": "aoc-glob-parser",
+  "version": "1.0.0",
+  "description": "A parser for a specific custom glob-like format to select/filter AoC problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneralYouri/aoc-glob-parser.git"
+  },
+  "keywords": [
+    "aoc",
+    "glob",
+    "parse",
+    "parser",
+    "custom",
+    "format",
+    "formatter",
+    "advent",
+    "of",
+    "code"
+  ],
+  "author": "Youri Bok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeneralYouri/aoc-glob-parser/issues"
+  },
+  "homepage": "https://github.com/GeneralYouri/aoc-glob-parser#readme"
+}
