@@ -104,7 +104,4 @@ const parse = (input) => {
     return generateAllRows().filter((_, i) => flags[i]);
 };
 
-// const output = parse('.-4.-:2017.3.');
-// console.log(output, output.length);
-
 module.exports = parse;
